@@ -1,1 +1,1 @@
-# UTEC Shell Project
+utec-shell project
