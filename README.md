@@ -1,1 +1,1 @@
-utec-shell repository
+# UTEC Shell Project
