@@ -1,1 +1,1 @@
-utec-shell repo README
+utec-shell project README
