@@ -1,1 +1,1 @@
-Proyecto UTEC Shell - Repositorio oficial
+Repositorio utec-shell
