@@ -11,3 +11,4 @@ Este directorio contiene scripts de Bash sobre la inicialización de archivos, v
 * `4-global_variables`: Script que lista todas las variables de entorno del sistema.
 * `5-local_variables`: Script que lista todas las variables locales, de entorno y funciones del sistema.
 * `6-create_local_variable`: Script que crea una variable local llamada BEST con el valor School.
+* `7-create_global_variable`: Script que crea una variable global llamada BEST con el valor School.
