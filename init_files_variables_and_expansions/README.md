@@ -16,3 +16,4 @@ Este directorio contiene scripts de Bash sobre la inicialización de archivos, v
 * `9-divide_and_rule`: Script que imprime el resultado de la división de POWER entre DIVIDE.
 * `10-love_exponent_breath`: Script que calcula y muestra BREATH elevado a la potencia LOVE.
 * `11-binary_to_decimal`: Script que convierte un número binario almacenado en BINARY a base 10.
+* `12-combinations`: Script que imprime todas las combinaciones posibles de dos letras minúsculas excepto oo.
