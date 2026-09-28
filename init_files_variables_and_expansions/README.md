@@ -13,3 +13,4 @@ Este directorio contiene scripts de Bash sobre la inicialización de archivos, v
 * `6-create_local_variable`: Script que crea una variable local llamada BEST con el valor School.
 * `7-create_global_variable`: Script que crea una variable global llamada BEST con el valor School.
 * `8-true_knowledge`: Script que imprime la suma de 128 con el valor de TRUEKNOWLEDGE.
+* `9-divide_and_rule`: Script que imprime el resultado de la división de POWER entre DIVIDE.
