@@ -18,3 +18,4 @@ Este directorio contiene scripts de Bash sobre la inicialización de archivos, v
 * `11-binary_to_decimal`: Script que convierte un número binario almacenado en BINARY a base 10.
 * `12-combinations`: Script que imprime todas las combinaciones posibles de dos letras minúsculas excepto oo.
 * `13-print_float`: Script que imprime un número formateado a dos decimales a partir de la variable NUM.
+* `14-decimal_to_hexadecimal`: Script que convierte un número decimal almacenado en DECIMAL a base 16.
