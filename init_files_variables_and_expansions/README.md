@@ -17,3 +17,4 @@ Este directorio contiene scripts de Bash sobre la inicialización de archivos, v
 * `10-love_exponent_breath`: Script que calcula y muestra BREATH elevado a la potencia LOVE.
 * `11-binary_to_decimal`: Script que convierte un número binario almacenado en BINARY a base 10.
 * `12-combinations`: Script que imprime todas las combinaciones posibles de dos letras minúsculas excepto oo.
+* `13-print_float`: Script que imprime un número formateado a dos decimales a partir de la variable NUM.
